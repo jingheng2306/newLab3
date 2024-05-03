@@ -1,4 +1,3 @@
-# Lab2.py
 
 def find_min_max(data):
     if not data:
